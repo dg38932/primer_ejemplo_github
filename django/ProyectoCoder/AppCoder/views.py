@@ -9,3 +9,5 @@ def curso(self):
     curso.save()
     documento = f"El curso es: {curso.nombre}, la camada es: {curso.camada}"
     return HttpResponse(documento)
+
+# comentario
