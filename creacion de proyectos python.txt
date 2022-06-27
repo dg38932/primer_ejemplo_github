@@ -1,0 +1,23 @@
+1) acceder a la consola
+ejecutar: cmd
+
+2) instalar paquete venv
+en la carpeta donde se abre la consola ejecutar: pip install virtual env
+
+3) crear carpeta de proyecto
+
+4) crear entorno virtual
+en la carpeta del proyecto ejecutar: "pyhton -m virtualenv venv"
+
+5) activar entorno virtual
+en la carpeta del proyecto ejecutar: "venv\Scripts\activate.bat"
+
+6) instalar django
+activado el entorno virtual, en la linea de comando resultante ejecutar: "pip install django"
+
+7) iniciar proyecto
+en la linea de comando ejecutar: "django-admin startproject <nombre de una nueva carpeta asignada al proyecto> ."
+
+8) abrir Visual Studio Code
+en la linea de comando ejecutar: "code ."
+
